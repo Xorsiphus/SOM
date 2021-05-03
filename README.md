@@ -1,1 +1,1 @@
-MSO
+MSO (модели стохастических объектов - stochastic object models)
